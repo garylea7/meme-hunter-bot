@@ -1,0 +1,13 @@
+DigitalOcean SSH Key Information
+================================
+
+Key Name: meme-hunter-bot-key
+Created: December 6, 2024
+
+Local Files:
+- Private key: C:/Users/realq/.ssh/do_key
+- Public key: C:/Users/realq/.ssh/do_key.pub
+
+Key Fingerprint: SHA256:DSS+A54UBbGvdG6iq63Z6b3xNRji5+UxGzRtktgmMQY
+
+Note: Keep this information secure and never share your private key!

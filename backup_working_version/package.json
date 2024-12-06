@@ -1,0 +1,25 @@
+{
+  "name": "flash-loan-arbitrage",
+  "version": "1.0.0",
+  "description": "Flash loan arbitrage system using Balancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js"
+  },
+  "dependencies": {
+    "@balancer-labs/v2-interfaces": "^0.4.0",
+    "@openzeppelin/contracts": "^4.9.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "web3": "^1.9.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

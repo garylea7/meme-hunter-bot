@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Trading data
+data/
+simulation_results.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/

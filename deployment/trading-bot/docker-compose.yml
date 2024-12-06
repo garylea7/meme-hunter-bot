@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  trading-bot:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./database:/app/database
+      - ./logs:/app/logs
+      - ./dashboard_data:/app/dashboard_data
+      - ./config:/app/config
+    environment:
+      - FLASK_APP=app.py
+      - FLASK_ENV=production
+      # Add your environment variables from .env here (without sensitive values)
+      - COINGECKO_API_KEY=${COINGECKO_API_KEY}
+      - PHANTOM_WALLET=${PHANTOM_WALLET}
+    env_file:
+      - .env
+    restart: always
+    networks:
+      - bot-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 1G
+
+networks:
+  bot-network:
+    driver: bridge

@@ -1,0 +1,7 @@
+{
+    "servers": [
+        "us-east",
+        "us-west",
+        "eu-central"
+    ]
+}

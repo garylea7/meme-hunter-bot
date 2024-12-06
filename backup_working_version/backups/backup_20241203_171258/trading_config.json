@@ -1,0 +1,30 @@
+{
+    "risk_management": {
+        "initial_position_size": 25.0,
+        "max_position_size": 50.0,
+        "max_concurrent_positions": 2,
+        "stop_loss_percentage": 2.5,
+        "take_profit_targets": [5.0, 10.0, 15.0],
+        "max_daily_loss_percentage": 5.0,
+        "max_trades_per_day": 10
+    },
+    "whale_tracking": {
+        "min_transaction_size": 10000,
+        "whale_addresses": [
+            "3FqQ8p7z3RX6RzVGqNwCPXz9zfj4oXvmKZtgxc2NPShE",
+            "4Nh8T1d4YBZHEuQNRmFbLXPT5HFPXSFNm5E5XenTwqXS",
+            "HxhWkVpk5NS4Ltg5nij2G35RwPYX27Z9EgWLUCFM6RYy"
+        ],
+        "follow_delay_seconds": 30
+    },
+    "token_filters": {
+        "min_liquidity_usd": 100000,
+        "min_daily_volume_usd": 50000,
+        "blacklisted_tokens": []
+    },
+    "execution": {
+        "slippage_tolerance": 1.0,
+        "max_retries": 3,
+        "retry_delay_seconds": 5
+    }
+}

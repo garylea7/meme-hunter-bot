@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Bot Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Trading Bot Dashboard</h1>
+            <div class="vpn-status" id="vpnStatus">
+                VPN Status: <span class="status status-pending">Checking...</span>
+            </div>
+        </div>
+
+        <div class="wallet-info">
+            <h2>Phantom Wallet</h2>
+            <div class="metrics">
+                <div class="metric-card">
+                    <div class="metric-value" id="walletBalance">Loading...</div>
+                    <div class="metric-label">Balance</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" id="totalPnL">Loading...</div>
+                    <div class="metric-label">Total P&L</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" id="winRate">Loading...</div>
+                    <div class="metric-label">Win Rate</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="trade-history">
+            <h2>Live Trades</h2>
+            <div id="tradeList"></div>
+        </div>
+
+        <div class="whale-activity">
+            <h2>Whale Activity</h2>
+            <div id="whaleList"></div>
+        </div>
+    </div>
+
+    <script>
+        const socket = io();
+        
+        socket.on('connect', () => {
+            console.log('Connected to server');
+        });
+
+        socket.on('metrics_update', (data) => {
+            document.getElementById('walletBalance').textContent = `$${data.balance.toFixed(2)}`;
+            document.getElementById('totalPnL').textContent = `${data.pnl > 0 ? '+' : ''}$${data.pnl.toFixed(2)}`;
+            document.getElementById('winRate').textContent = `${(data.win_rate * 100).toFixed(1)}%`;
+        });
+
+        socket.on('vpn_status', (data) => {
+            const vpnStatusEl = document.querySelector('#vpnStatus .status');
+            vpnStatusEl.textContent = data.connected ? 'Connected' : 'Disconnected';
+            vpnStatusEl.className = `status status-${data.connected ? 'connected' : 'disconnected'}`;
+        });
+
+        function updateTradeList(trade) {
+            const tradeList = document.getElementById('tradeList');
+            const tradeRow = document.createElement('div');
+            tradeRow.className = 'trade-row';
+            
+            const profitClass = trade.profit >= 0 ? 'profit-positive' : 'profit-negative';
+            const profitSign = trade.profit >= 0 ? '+' : '';
+            
+            tradeRow.innerHTML = `
+                <span class="trade-token">${trade.token}</span>
+                <span class="trade-amount">${trade.amount} ${trade.token}</span>
+                <span class="trade-profit ${profitClass}">${profitSign}$${trade.profit.toFixed(2)}</span>
+            `;
+            
+            tradeList.insertBefore(tradeRow, tradeList.firstChild);
+            
+            // Keep only last 10 trades
+            if (tradeList.children.length > 10) {
+                tradeList.removeChild(tradeList.lastChild);
+            }
+        }
+
+        function updateWhaleActivity(activity) {
+            const whaleList = document.getElementById('whaleList');
+            const whaleRow = document.createElement('div');
+            whaleRow.className = 'whale-row';
+            
+            whaleRow.innerHTML = `
+                <span class="whale-token">${activity.token}</span>
+                <span class="whale-amount">$${activity.amount.toFixed(2)}</span>
+            `;
+            
+            whaleList.insertBefore(whaleRow, whaleList.firstChild);
+            
+            // Keep only last 5 whale activities
+            if (whaleList.children.length > 5) {
+                whaleList.removeChild(whaleList.lastChild);
+            }
+        }
+
+        socket.on('trade_update', (data) => {
+            updateTradeList(data);
+        });
+
+        socket.on('whale_activity', (data) => {
+            updateWhaleActivity(data);
+        });
+    </script>
+</body>
+</html>

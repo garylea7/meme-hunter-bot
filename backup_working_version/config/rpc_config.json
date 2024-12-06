@@ -1,0 +1,12 @@
+{
+    "rpc_endpoints": {
+        "primary": "https://devnet.helius-rpc.com/?api-key=e3c6202f-e7cd-4270-9ce4-1b218dbf597d",
+        "backup": "https://api.devnet.solana.com"
+    },
+    "websocket": {
+        "primary": "wss://devnet.helius-rpc.com/?api-key=e3c6202f-e7cd-4270-9ce4-1b218dbf597d"
+    },
+    "network": "devnet",
+    "test_wallet_address": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+    "test_private_key": "2WB7NQZWjrV3wdYUqFp1X75J8zYHHoatU8orxRh6MbCxWY5QZbJH9DPtSpNvGgKNtGR4Z1mB7Qubr3VKhYEgJWHx"
+}

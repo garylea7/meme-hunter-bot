@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  trading-bot:
+    build: .
+    container_name: memehunter
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PRACTICE_BALANCE=500
+    ports:
+      - "5000:5000"  # For dashboard
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:5000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s

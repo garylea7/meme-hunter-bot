@@ -1,0 +1,3916 @@
+{
+    "test_trades": [
+        {
+            "timestamp": "2024-12-03T11:34:12.300414+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.9805736791375073,
+            "price": 73.88947412892222,
+            "profit": 11.396429513722467,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:34:22.311891+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.3580244378431493,
+            "price": 79.13971277618046,
+            "profit": 8.305575276889616,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:34:32.315901+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.31764430385687953,
+            "price": 77.08912042016014,
+            "profit": -2.8800055866856233,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:34:42.318403+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8056468239623806,
+            "price": 79.3104165077277,
+            "profit": 6.731210878821994,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:34:52.326775+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6558530550479531,
+            "price": 77.20360995299924,
+            "profit": 8.056938248912255,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:35:02.331101+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.20331326857570195,
+            "price": 73.0570674693453,
+            "profit": 2.0498616505569256,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:35:12.336050+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.440200608068807,
+            "price": 75.00496434814238,
+            "profit": 2.7232473835257,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:35:22.341225+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.6122449037113751,
+            "price": 73.43298617241744,
+            "profit": 5.015067147472173,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:35:32.348310+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.4418123282151045,
+            "price": 78.12479407627508,
+            "profit": 1.7633131940190587,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:35:42.355145+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.9756708143593209,
+            "price": 70.91232742092548,
+            "profit": 5.479044215449974,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:35:52.361432+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.1997923316235754,
+            "price": 70.4838431520049,
+            "profit": 4.979268315924559,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:36:02.366981+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.5347823216715277,
+            "price": 74.32212292270239,
+            "profit": 3.4935088475586777,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:36:12.374044+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.853135812955382,
+            "price": 73.83153256834927,
+            "profit": 0.09642692484763948,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:36:22.380263+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.11269024021230506,
+            "price": 70.81337161155759,
+            "profit": 8.147449764686186,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:36:32.387608+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.5485980320179905,
+            "price": 74.53190853993218,
+            "profit": 4.537572276370991,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:36:42.391530+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.21472355569091228,
+            "price": 71.78209934205029,
+            "profit": 12.001517699794785,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:36:52.397319+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.8991555497049551,
+            "price": 76.97059923231487,
+            "profit": -0.7202847262648993,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:37:02.403565+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.36665057570606097,
+            "price": 78.47625283320723,
+            "profit": 1.0617210834430786,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:37:12.408423+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.20143461211907276,
+            "price": 76.26263587921565,
+            "profit": 2.46630470747903,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:37:22.413674+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.20204376148393915,
+            "price": 73.94127254455245,
+            "profit": 0.05094773219469051,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:37:32.421456+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.5680957827273064,
+            "price": 79.63115339024044,
+            "profit": -1.8327531059355229,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:37:42.428801+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.9686445894156086,
+            "price": 76.1984519831466,
+            "profit": 13.18812537197132,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:37:52.434194+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.1187380988490618,
+            "price": 78.48103644474811,
+            "profit": 12.05655988168007,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:38:02.467578+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.7282981605744023,
+            "price": 79.94297038092836,
+            "profit": 5.716464746142915,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:38:12.480946+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.3881263191801515,
+            "price": 79.09985878147609,
+            "profit": 13.411516610419824,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:38:22.499564+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.5402267083941693,
+            "price": 78.8687125978346,
+            "profit": 11.906368140803131,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:38:32.556921+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.12625249726221263,
+            "price": 73.27264046734349,
+            "profit": 5.87145149783796,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:38:42.564366+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.5362950755522599,
+            "price": 74.91263695673392,
+            "profit": 2.0089567216032194,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:38:52.568810+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.8709233370164633,
+            "price": 72.16371617179894,
+            "profit": 0.6990994660643075,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:39:02.588431+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.3159351195543958,
+            "price": 79.65190529285567,
+            "profit": 5.740859265389721,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:39:12.595908+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.11354605559670017,
+            "price": 77.32636554426908,
+            "profit": -0.7446626767633591,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:39:22.600252+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.4724168463471483,
+            "price": 73.69012647051963,
+            "profit": 0.5984331342124438,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:39:32.607361+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.49369257673633604,
+            "price": 71.57589647758773,
+            "profit": 11.844988002322513,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:39:42.617183+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.3421942044636014,
+            "price": 75.49067895077988,
+            "profit": 13.529333160901476,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:39:52.645964+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.25105193305764584,
+            "price": 71.49663963226628,
+            "profit": 6.021154194688352,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:40:02.651221+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.24133434068387266,
+            "price": 70.52209411105966,
+            "profit": -0.40716972513641636,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:40:12.655793+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.7626598025003117,
+            "price": 72.82121164027313,
+            "profit": 13.49060191391927,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:40:22.661243+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.7727393802675169,
+            "price": 75.06053664455915,
+            "profit": -2.1920611434401205,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:40:32.667335+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.1150299879239294,
+            "price": 76.02068329698822,
+            "profit": 14.211555773148092,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:40:42.675851+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.28951174085972853,
+            "price": 79.31938231000962,
+            "profit": 10.504063772871294,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:40:52.684288+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.24009822506020792,
+            "price": 71.18250359183627,
+            "profit": 11.77464847066777,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:41:02.690250+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.4750776095917467,
+            "price": 75.060583710571,
+            "profit": -4.436233698990293,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:41:12.701390+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.8245328559428008,
+            "price": 77.98719638710834,
+            "profit": -4.298960524261903,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:41:22.718926+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.36377969087615836,
+            "price": 70.51831928927373,
+            "profit": -4.094345212038517,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:41:32.725048+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6161273799343865,
+            "price": 76.7047859068726,
+            "profit": 1.5337910810334732,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:41:42.736179+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.9990335096553525,
+            "price": 71.26620142371772,
+            "profit": 4.907982744732324,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:41:53.322023+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.9648893063895081,
+            "price": 74.1265219239511,
+            "profit": 13.239681829435423,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:42:03.342733+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.8544600503095879,
+            "price": 73.51288432198196,
+            "profit": 7.444273803036348,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:42:13.353425+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.9516271470911051,
+            "price": 77.33531754085902,
+            "profit": 13.772328177949412,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:42:23.364246+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.4929278942976395,
+            "price": 77.79368624274802,
+            "profit": -1.7429450352570797,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:42:33.373423+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.7307655052992047,
+            "price": 78.71626460966473,
+            "profit": -2.53714926088509,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:42:43.381218+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.10556859263443104,
+            "price": 70.01518101962418,
+            "profit": 8.55347527036651,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:42:53.425816+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.21069323350917024,
+            "price": 73.43121666422628,
+            "profit": 10.137884608061372,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:43:03.434929+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.7675793780903774,
+            "price": 74.40087616490055,
+            "profit": 4.670433440066166,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:43:13.441923+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.24172358949668307,
+            "price": 79.33697059789287,
+            "profit": -3.360495590274628,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:43:23.449457+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.9938654211021262,
+            "price": 76.37218646956654,
+            "profit": 6.7840949594484385,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:43:33.482584+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.7067855353455009,
+            "price": 76.75080161635185,
+            "profit": 6.4300002576059505,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:43:43.491680+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.11214692685527707,
+            "price": 75.62104598711691,
+            "profit": 9.393533576411386,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:43:53.511632+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.3282114158894416,
+            "price": 76.02628105413137,
+            "profit": 12.34866872833301,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:44:03.538752+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.2643151274520894,
+            "price": 77.35822771099822,
+            "profit": 9.281385142161792,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:44:13.545097+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.9801762604017484,
+            "price": 79.8651936443253,
+            "profit": 5.015879642109631,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:44:23.553340+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.17405595360115808,
+            "price": 71.49816919463176,
+            "profit": -1.8567244464016608,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:44:33.562652+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.6604796065088742,
+            "price": 72.86993764936194,
+            "profit": 10.81737219375122,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:44:43.571169+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.7222547919732227,
+            "price": 73.61224754566086,
+            "profit": 10.68269462168435,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:44:53.579575+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.25097257166311937,
+            "price": 72.24643084091807,
+            "profit": -2.836888547249754,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:45:03.587818+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.7255971485487722,
+            "price": 73.00650793558607,
+            "profit": 12.815469222282381,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:45:13.597711+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.5801382055483214,
+            "price": 75.81317534655189,
+            "profit": 14.18138233183506,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:45:23.606447+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.6836437509812161,
+            "price": 74.33889445070638,
+            "profit": -4.495112564390467,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:45:33.614782+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.10894245121707563,
+            "price": 77.54622352918628,
+            "profit": -0.7882874226498267,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:45:43.620606+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.12507610510421865,
+            "price": 76.39868751153072,
+            "profit": -3.829936371103948,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:45:53.647474+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.2706279295959622,
+            "price": 71.38923659612252,
+            "profit": 8.826103009818247,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:46:03.654806+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.9061106272192903,
+            "price": 78.49438708265798,
+            "profit": -0.43054083658939746,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:46:13.664239+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.4854253144151476,
+            "price": 75.03901127861774,
+            "profit": 13.11965098965059,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:46:23.671929+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.4670490246650668,
+            "price": 75.93381414916146,
+            "profit": 4.733012323039219,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:46:33.679413+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.29697882112562246,
+            "price": 76.05113410651552,
+            "profit": 8.72248084476036,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:46:43.687893+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.8630829169662456,
+            "price": 73.77743760046032,
+            "profit": -1.9779192285933056,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:46:53.697564+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.33524742577837996,
+            "price": 76.14213126351548,
+            "profit": 4.7192502542254005,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:47:03.703053+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.46678611499479894,
+            "price": 70.57353458562203,
+            "profit": 2.7687757668805846,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:47:13.713635+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.32652838135182927,
+            "price": 79.9554773417899,
+            "profit": -3.702086977214305,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:47:23.719910+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.3471721062223765,
+            "price": 73.73527668864014,
+            "profit": 4.950721683120754,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:47:33.734632+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.3110109024856961,
+            "price": 76.27382696893665,
+            "profit": 5.080886635876151,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:47:43.740376+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.6627624257495623,
+            "price": 72.78191553060381,
+            "profit": -1.1770917061481323,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:47:53.794521+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.6660236203733838,
+            "price": 71.30545125415986,
+            "profit": 5.469244421502186,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:48:03.836273+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.39589212522109496,
+            "price": 74.0958452790907,
+            "profit": 0.14938484236899185,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:48:13.846383+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.9656406803915947,
+            "price": 70.6710943299664,
+            "profit": 9.044352769179397,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:48:23.852893+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.8286199046746314,
+            "price": 76.42598753372386,
+            "profit": 4.451521451693836,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:48:33.858083+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.11721725354000218,
+            "price": 70.10632398708918,
+            "profit": 4.320727382564925,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:48:43.868452+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.4911147963765351,
+            "price": 73.04062454144962,
+            "profit": 13.324357515003157,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:48:53.925144+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.7151538641418873,
+            "price": 79.95748570941052,
+            "profit": 1.0211601614349375,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:49:03.936600+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.9791891670157529,
+            "price": 72.44336860029539,
+            "profit": -2.9020128917984334,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:49:13.944348+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.14801665098280328,
+            "price": 74.8163556929753,
+            "profit": 12.21440429392856,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:49:23.955292+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.12027240330658415,
+            "price": 73.1405631529494,
+            "profit": 0.48862294633786263,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:49:33.964036+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.719185322395125,
+            "price": 75.92062511374121,
+            "profit": 13.125809832394637,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:49:43.974885+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.49417789560833736,
+            "price": 75.2737963310546,
+            "profit": 10.860899689958547,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:49:53.982712+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5024980022019135,
+            "price": 77.358715887522,
+            "profit": 7.530889792538581,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:50:04.005529+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.34424303745413326,
+            "price": 74.8495591672742,
+            "profit": 2.3542301643251857,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:50:14.014810+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.296734425843038,
+            "price": 71.5713089367817,
+            "profit": 14.960884175068287,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:50:24.022227+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.7748449247612081,
+            "price": 75.78943885218357,
+            "profit": -2.3631362084059426,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:50:34.031844+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.5928420800663761,
+            "price": 75.06134026181563,
+            "profit": -4.366348147093218,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:50:44.038612+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.9290960742700668,
+            "price": 72.5480436197602,
+            "profit": 11.874032539699432,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:50:54.058812+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.5000537491885559,
+            "price": 70.74000909491241,
+            "profit": 4.537106016401832,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:51:04.117529+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.40085800317608455,
+            "price": 71.72745786626983,
+            "profit": 14.341037224068135,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:51:14.134208+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.6592439513265502,
+            "price": 76.70335929291639,
+            "profit": 3.0170098837825776,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:51:24.143303+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.5335036716403045,
+            "price": 74.26943811190301,
+            "profit": 11.875174085122808,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:51:34.151647+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.4590177115877895,
+            "price": 71.12454415436535,
+            "profit": 8.421312812626114,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:51:44.160274+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.5964847828514334,
+            "price": 76.9777548151676,
+            "profit": -0.86261019801724,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:51:54.173169+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.161128324556452,
+            "price": 75.65725588313065,
+            "profit": 4.92873272859314,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:52:04.187007+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.8648325297535953,
+            "price": 77.33414621969325,
+            "profit": 7.300085685276162,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:52:14.199613+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.21812104307825542,
+            "price": 70.30114217326646,
+            "profit": 2.822150212587971,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:52:24.210573+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.960344611805549,
+            "price": 71.8484060859945,
+            "profit": 11.139448715147179,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:52:34.249641+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.23048691573340424,
+            "price": 79.04710930834614,
+            "profit": 8.923750909417743,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:52:44.278498+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.3110026829348345,
+            "price": 70.74524711412069,
+            "profit": 10.956239067432323,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:52:54.353081+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.28099128128677975,
+            "price": 78.43344987342661,
+            "profit": -2.8211371097617843,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:53:04.374782+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.3786433034418728,
+            "price": 75.33278862507845,
+            "profit": 10.82034570875032,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:53:14.383544+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.8087639796358218,
+            "price": 72.40782538717856,
+            "profit": 6.257381404629847,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:53:24.394488+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.3058677377494551,
+            "price": 77.37553929648871,
+            "profit": 0.6263479359029089,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:53:34.411553+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.16235245244015556,
+            "price": 74.39011500233921,
+            "profit": 0.028697797913192602,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:53:44.423238+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.704535084640274,
+            "price": 74.80347309924844,
+            "profit": -0.7419837541164291,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:53:54.434231+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.10344105934240436,
+            "price": 71.81094365482889,
+            "profit": -4.708462917466704,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:54:04.449420+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.15246845029693606,
+            "price": 71.06328319938649,
+            "profit": 9.49036608031964,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:54:14.462074+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8068913919703818,
+            "price": 71.98063891760046,
+            "profit": 8.591660600580473,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:54:24.471419+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.7343207310787951,
+            "price": 77.5961634733998,
+            "profit": 10.452324420972147,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:54:34.479916+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.3410734560437342,
+            "price": 78.40647395650822,
+            "profit": 9.879323461391728,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:54:44.494105+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.2508622308939529,
+            "price": 73.82077449722547,
+            "profit": 2.7828077636903608,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:54:54.538509+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.4102113422317264,
+            "price": 73.66307724823244,
+            "profit": 1.8263164254897868,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:55:04.552593+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.690837231981656,
+            "price": 78.50280400526862,
+            "profit": 3.6847459990395386,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:55:14.567317+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.7196318017593089,
+            "price": 79.74976030465471,
+            "profit": -0.6775759773924577,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:55:24.577394+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.2584513104122308,
+            "price": 75.91000000953406,
+            "profit": 6.445542087407283,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:55:34.586161+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.7406992280736913,
+            "price": 71.35851138350952,
+            "profit": -4.251574649756414,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:55:45.762220+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.14689283274959725,
+            "price": 71.51574254688367,
+            "profit": 10.110821991151116,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:55:55.777139+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6548179469459656,
+            "price": 79.47557357902,
+            "profit": 4.7959932469460576,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:56:05.793233+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.8564298490380766,
+            "price": 77.88668628226114,
+            "profit": -3.4672127813116504,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:56:15.806993+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.419502561920546,
+            "price": 78.64221570921053,
+            "profit": 1.5891163223202405,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:56:25.820011+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.6266643762039675,
+            "price": 79.16685909529674,
+            "profit": 6.673398731279221,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:56:35.829714+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.9596053437175496,
+            "price": 77.32352822799339,
+            "profit": 12.081544501758188,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:56:45.852353+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.8327663561978985,
+            "price": 73.6426056956646,
+            "profit": 14.973746507946913,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:56:55.864260+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.30277645100491263,
+            "price": 76.28157595774425,
+            "profit": -4.517512930869327,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:57:05.876263+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.2448403450005121,
+            "price": 72.81262829515406,
+            "profit": 6.320947209383956,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:57:15.888449+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.6077724210109733,
+            "price": 79.64338114502469,
+            "profit": 7.700820480686781,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:57:25.902164+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.522080287841864,
+            "price": 71.9149050294322,
+            "profit": -1.657428570580437,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:57:35.912609+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5647522514111631,
+            "price": 75.7693034303035,
+            "profit": 9.198469339536734,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:57:45.921634+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.17081744620591244,
+            "price": 75.73229531927983,
+            "profit": 12.601301549561825,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:57:55.929707+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.5919732684569765,
+            "price": 75.88444527078049,
+            "profit": 3.14600831005831,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:58:05.948471+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.4753400778997596,
+            "price": 78.78888292746862,
+            "profit": 14.44910766299607,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:58:15.958983+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.4360052037865736,
+            "price": 78.62601292364512,
+            "profit": 6.476873474472381,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:58:25.967558+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.37402963938010647,
+            "price": 76.33479869839493,
+            "profit": 5.352711334251463,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:58:35.975777+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.7852732924062858,
+            "price": 78.72514221679774,
+            "profit": 10.52890475247182,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:58:45.997422+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.8179641796069624,
+            "price": 71.79006531267846,
+            "profit": 0.10490591442709629,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:58:56.012416+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.3566879037005486,
+            "price": 79.23046870848611,
+            "profit": 8.999217338514512,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:59:06.029824+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.9703807181415788,
+            "price": 75.74965975740834,
+            "profit": 5.411773268352341,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:59:16.037928+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.4129934148663966,
+            "price": 77.05114752051475,
+            "profit": 7.0848936309600585,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:59:26.053814+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.4397355752249569,
+            "price": 79.45058054548906,
+            "profit": 0.24765564999299716,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:59:36.065745+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.4454357047591666,
+            "price": 77.80929683545295,
+            "profit": 7.629583089148298,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:59:46.080673+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.591893195505856,
+            "price": 76.21828400689682,
+            "profit": 0.11070439238233654,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T11:59:56.102401+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.14461727622547912,
+            "price": 76.05757328019943,
+            "profit": 7.062014463901443,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:00:06.124492+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.14976193541071525,
+            "price": 77.85375070631439,
+            "profit": 10.43805477314844,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:00:16.132902+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.8243886740187829,
+            "price": 75.93641616676332,
+            "profit": -2.034923924101668,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:00:26.141603+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.4098726029357602,
+            "price": 75.00743435883595,
+            "profit": 12.562148713473029,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:00:36.160177+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8073269172268284,
+            "price": 75.94681123243481,
+            "profit": 0.7938519246646658,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:00:46.170445+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.7441820916146245,
+            "price": 72.57279527922854,
+            "profit": 7.715771172983105,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:00:56.181759+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.1265449865260372,
+            "price": 75.3241883468131,
+            "profit": 14.950126305518413,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:01:06.207646+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.782624792599376,
+            "price": 77.96985316825238,
+            "profit": 3.787876960904679,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:01:16.258954+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.4825041709802085,
+            "price": 73.46169266301455,
+            "profit": 2.165671719605764,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:01:26.274305+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.7772303503458181,
+            "price": 71.81700457686823,
+            "profit": 12.204958235732228,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:01:36.286186+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6648931772726515,
+            "price": 75.17172181900001,
+            "profit": 14.510812547202928,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:01:46.296576+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.7970080964007072,
+            "price": 76.31829498425316,
+            "profit": -4.969552121093958,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:01:56.313340+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.9463750741016282,
+            "price": 76.91275305116588,
+            "profit": -2.9133460700765745,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:02:06.324987+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.3208014310780976,
+            "price": 77.42352987271991,
+            "profit": 3.862844509351447,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:02:16.337166+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.24254720617178904,
+            "price": 77.93324042158503,
+            "profit": 2.365671348920266,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:02:26.345927+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.27896653733919524,
+            "price": 77.13114728517444,
+            "profit": -1.113469084224017,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:02:36.363757+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.6930038978693899,
+            "price": 75.82201972948829,
+            "profit": 0.6017890477301213,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:02:46.375625+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5860675387069634,
+            "price": 70.4751522694098,
+            "profit": -1.6025231232895143,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:02:56.385439+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.12232342160919642,
+            "price": 72.42905827613227,
+            "profit": 3.9343771671353664,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:03:06.399234+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.1170422801205333,
+            "price": 77.49330974780085,
+            "profit": 13.133948055909276,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:03:16.413240+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.2573349441788445,
+            "price": 71.62128148064883,
+            "profit": 7.330095043444906,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:03:26.425625+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.3827670902139989,
+            "price": 76.2072972168003,
+            "profit": 9.743783617021553,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:03:36.440268+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.4778822689015402,
+            "price": 76.0322773535505,
+            "profit": -2.9557355675905272,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:03:46.452892+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.7557642484106574,
+            "price": 71.11827129097885,
+            "profit": 0.7738003051923137,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:03:56.462123+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.9407260415352469,
+            "price": 78.0042048194824,
+            "profit": 1.932557210360521,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:04:06.485171+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.2436400531977065,
+            "price": 72.65069320469128,
+            "profit": 5.017858435345952,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:04:16.501562+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.22470509476968753,
+            "price": 75.36654707712158,
+            "profit": 13.905284845326342,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:04:26.515181+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.5587367200800715,
+            "price": 71.21072060744109,
+            "profit": 8.750816394610263,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:04:36.531847+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.4237372504375647,
+            "price": 73.18013183797957,
+            "profit": -0.21141196844995314,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:04:46.544562+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.9205683002000458,
+            "price": 70.10251524446106,
+            "profit": 5.756430700654779,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:04:56.563571+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.3000373498276231,
+            "price": 71.59534672023457,
+            "profit": 10.268074180450705,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:05:06.589084+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.28435063230711627,
+            "price": 72.4500207082224,
+            "profit": 7.790758700706565,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:05:16.611777+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.2232874779950197,
+            "price": 70.72065403473836,
+            "profit": 2.8144544801458977,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:05:26.626085+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.3718514214634687,
+            "price": 75.46004071543551,
+            "profit": 1.123014198284844,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:05:36.641024+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.6016666094291679,
+            "price": 77.18238391173408,
+            "profit": -4.503117234943581,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:05:46.656385+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.46688280753727596,
+            "price": 72.12532544043529,
+            "profit": -0.7535241334895844,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:05:56.667852+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.13914573867000074,
+            "price": 79.30343547766743,
+            "profit": -2.052862729490015,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:06:06.689405+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.8969881158930199,
+            "price": 73.48267256767704,
+            "profit": 14.364387243932942,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:06:16.710200+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.4023212060775283,
+            "price": 76.93505775765043,
+            "profit": 12.320540962838663,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:06:26.722408+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.4743804845997365,
+            "price": 70.28837073747246,
+            "profit": -2.564893981375773,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:06:36.735388+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.7260333845633675,
+            "price": 77.80966044451944,
+            "profit": -1.5693533862671383,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:06:46.750780+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.4177049484293822,
+            "price": 71.59758006888312,
+            "profit": 0.3563053471842226,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:06:56.761067+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.5590917540711968,
+            "price": 72.42840455678717,
+            "profit": 11.578790418986479,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:07:06.777833+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.7803135247818699,
+            "price": 74.25607221345624,
+            "profit": 0.3760912507458585,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:07:16.799307+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.35354927799938485,
+            "price": 76.17776075375585,
+            "profit": 11.777958699854437,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:07:26.825150+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.9991337704551633,
+            "price": 75.9219882661747,
+            "profit": 9.366268830268464,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:07:36.837069+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.7323817637297612,
+            "price": 79.92023044547432,
+            "profit": -3.811407532368536,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:07:46.851543+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.41614420936429575,
+            "price": 73.6427832846238,
+            "profit": 0.7212016543754167,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:07:56.869685+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.4870970841933224,
+            "price": 70.50955092132978,
+            "profit": 13.710376030743884,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:08:06.880671+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.86226905575063,
+            "price": 79.66665783835211,
+            "profit": 9.50525860290809,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:08:16.900409+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.41754086606426355,
+            "price": 71.19778599817182,
+            "profit": 11.149423866219713,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:08:26.916720+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.4237442519339266,
+            "price": 79.05912602822382,
+            "profit": 3.682514875737496,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:08:36.934101+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.24759811672055365,
+            "price": 78.71963489420891,
+            "profit": 14.233801348341128,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:08:46.957985+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.8025706681723721,
+            "price": 79.93554404407624,
+            "profit": 8.094282982633754,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:08:56.970310+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.32195619630484074,
+            "price": 72.0989386298923,
+            "profit": 2.869522046565476,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:09:06.988159+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.14379161677743765,
+            "price": 74.83657078125373,
+            "profit": -3.593147942684274,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:09:17.001267+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.25675663802261395,
+            "price": 74.859547404897,
+            "profit": 12.254429390513842,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:09:27.021482+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.26454371877324806,
+            "price": 78.77607400359805,
+            "profit": 8.439056552774844,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:09:37.036278+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.6527238664787368,
+            "price": 77.96208209801,
+            "profit": 1.5272300628070372,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:09:47.057630+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.6407168224762018,
+            "price": 77.74004506545256,
+            "profit": 4.4243623608614975,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:09:57.069767+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.9561621912699335,
+            "price": 77.50671935679152,
+            "profit": 9.018805664275167,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:10:07.081434+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.2688502174895945,
+            "price": 78.08531369618473,
+            "profit": 3.460796528238504,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:10:17.098043+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.13920561071931986,
+            "price": 73.49088310284785,
+            "profit": 6.272139066232988,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:10:27.110818+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.22796936508183718,
+            "price": 73.07769770503405,
+            "profit": -2.4272003178204926,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:10:37.135240+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.4307742398774026,
+            "price": 72.6328735496498,
+            "profit": 1.5231940744363897,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:10:47.152496+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.5070058409709634,
+            "price": 70.87162654545395,
+            "profit": 12.025705856526901,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:10:57.164554+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.6476894320046008,
+            "price": 73.47730746863712,
+            "profit": 13.792534007423178,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:11:07.177221+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.8046189187019663,
+            "price": 77.80891347938893,
+            "profit": 5.597385043261136,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:11:17.189337+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.9639599565618087,
+            "price": 73.07163010038305,
+            "profit": -3.4735072507267373,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:11:27.207146+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.29940614920508857,
+            "price": 73.94003720032218,
+            "profit": 1.930318898336325,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:11:37.228445+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.6398857305231658,
+            "price": 76.64486914705391,
+            "profit": 4.335905191222784,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:11:47.245958+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.4581207177207429,
+            "price": 78.17385122729362,
+            "profit": 14.127380555969442,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:11:57.260258+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.5869625912307361,
+            "price": 77.7994826775627,
+            "profit": 0.1334382529856537,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:12:07.278249+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.670845403508361,
+            "price": 79.5426063836697,
+            "profit": 6.685639741590869,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:12:17.290552+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.36108614253181015,
+            "price": 76.83506685005698,
+            "profit": 10.876540207508041,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:12:27.302319+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.4028364555346686,
+            "price": 78.64734186476912,
+            "profit": 1.525328041069434,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:12:37.318799+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.7940368278711185,
+            "price": 76.60970908640597,
+            "profit": 9.579768589817546,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:12:47.337545+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.3985629338236044,
+            "price": 77.74300293797023,
+            "profit": 6.2310803267598445,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:12:57.351178+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.1011655853820175,
+            "price": 71.7385126520531,
+            "profit": 0.12091766445345264,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:13:07.363314+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.4713639426462839,
+            "price": 77.03510163789932,
+            "profit": 14.463336773559298,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:13:17.375907+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.6618762955004411,
+            "price": 76.83888478403074,
+            "profit": 14.43356005020691,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:13:27.389123+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.9961746981595526,
+            "price": 79.54395929177745,
+            "profit": -1.22708844509257,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:13:37.408362+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.9363604366898065,
+            "price": 71.26809739212256,
+            "profit": -4.834738840219375,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:13:47.432274+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6550327068780399,
+            "price": 72.68432041777304,
+            "profit": 1.6024685917546355,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:13:57.444775+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.7469816766875105,
+            "price": 71.89097669222748,
+            "profit": 10.43112648984838,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:14:07.456151+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.732009803762719,
+            "price": 76.7558984263591,
+            "profit": -3.635905578504679,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:14:17.481274+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.47091530740572707,
+            "price": 76.58480350008085,
+            "profit": 4.2310538873614,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:14:27.510166+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6391302306320729,
+            "price": 73.47421332960619,
+            "profit": 6.7972430231431336,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:14:37.524852+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.8494613660781191,
+            "price": 71.6006249921708,
+            "profit": -2.9235744210639436,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:14:47.535485+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.28615022048261873,
+            "price": 75.38696905533645,
+            "profit": -0.7255589088327756,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:14:57.566741+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.11366643463321852,
+            "price": 77.8573692899931,
+            "profit": 11.112499730615081,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:15:07.581239+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.24325312157482115,
+            "price": 74.63776996399177,
+            "profit": 1.9949746118448513,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:15:17.593040+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.4565165072929138,
+            "price": 71.14819968979361,
+            "profit": 1.9308748112495566,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:15:27.623609+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.7274524879382815,
+            "price": 74.33217588181644,
+            "profit": 8.728366577705026,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:15:37.665760+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.14775029135897522,
+            "price": 74.10580353873648,
+            "profit": 5.500519566317308,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:15:47.696177+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.4836565925946079,
+            "price": 73.25533266165276,
+            "profit": 3.8047402003304818,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:15:57.711986+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5281815288489956,
+            "price": 71.8692229758717,
+            "profit": -3.005102808657374,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:16:07.738092+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.22250766061894595,
+            "price": 79.95441643927445,
+            "profit": -3.2196278676878753,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:16:17.767478+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.691916427515444,
+            "price": 78.69295204320807,
+            "profit": 7.3264092080250585,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:16:27.790291+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.7961792652082131,
+            "price": 72.47200064732299,
+            "profit": 6.670210289299739,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:16:37.817987+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.6601656895209392,
+            "price": 70.13474455002707,
+            "profit": 4.54386567746001,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:16:47.840302+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.604531838081661,
+            "price": 77.12419956992426,
+            "profit": 8.915887504899246,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:16:57.862399+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.9075434915461341,
+            "price": 75.98420759632245,
+            "profit": 4.149517807621583,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:17:07.880792+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.5568553222344899,
+            "price": 79.08405007756934,
+            "profit": 4.540144079191524,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:17:17.900136+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8542436136527609,
+            "price": 77.09955353559866,
+            "profit": -0.7027730194851856,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:17:27.920885+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.780536959722641,
+            "price": 78.43477743801029,
+            "profit": 8.33182303189502,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:17:37.938603+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.7779312024433277,
+            "price": 71.48141823735698,
+            "profit": 12.956491139716178,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:17:47.966510+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.5568276030732143,
+            "price": 76.50696595138494,
+            "profit": -4.347852804959178,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:17:57.985040+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.4635464640695811,
+            "price": 75.00890501131302,
+            "profit": -1.6115978033394995,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:18:07.999959+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.8940200346729014,
+            "price": 70.1416610006899,
+            "profit": -0.19837779505564868,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:18:18.014623+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.8245787220298316,
+            "price": 76.00150996405192,
+            "profit": -3.202489437901399,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:18:28.043763+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.2662492061051924,
+            "price": 76.83514200695878,
+            "profit": 1.8759540449869334,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:18:38.056052+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.973597167622788,
+            "price": 72.28083616889833,
+            "profit": -3.025248235126703,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:18:48.087003+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.7999765744066707,
+            "price": 79.94933145897024,
+            "profit": -0.8737661514047712,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:18:58.118150+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.7696125096006644,
+            "price": 77.41798589965546,
+            "profit": 5.406025973929365,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:19:08.133456+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.6446747430665799,
+            "price": 74.64678620617998,
+            "profit": -4.758221339164923,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:19:18.147252+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.911106068417595,
+            "price": 71.07556640567505,
+            "profit": 0.0760391018435218,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:19:28.176677+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.5701876336692727,
+            "price": 75.07157546888392,
+            "profit": -4.282776500510755,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:19:38.203239+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.18804364376841992,
+            "price": 77.97240212815721,
+            "profit": -4.532146504688397,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:19:48.227317+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.8452544032025845,
+            "price": 72.06880596227009,
+            "profit": 5.733130708030762,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:19:58.254072+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.15368788285611373,
+            "price": 75.69693013022672,
+            "profit": 8.196527195126048,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:20:08.268703+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.4155345059533606,
+            "price": 78.34210666632218,
+            "profit": 7.941893984912809,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:20:18.287587+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.7261778643216145,
+            "price": 77.29614470314391,
+            "profit": -3.729454646589745,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:20:28.313471+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8334441068486081,
+            "price": 75.2542630924264,
+            "profit": -3.6892741736169232,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:20:38.331371+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.7941090127448915,
+            "price": 72.68726503246609,
+            "profit": 6.4095987998372,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:20:48.346746+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5319244892849667,
+            "price": 76.25829032793915,
+            "profit": 8.80393131705107,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:20:58.366960+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.6054185282290608,
+            "price": 76.66292841056388,
+            "profit": 5.282598342187976,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:21:08.381991+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.7314241655376963,
+            "price": 77.93445054599292,
+            "profit": 5.1780317462010235,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:21:18.445113+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8718840275168843,
+            "price": 72.35494135891088,
+            "profit": 13.007272521374915,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:21:28.461177+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.6445163971557322,
+            "price": 78.66819085903128,
+            "profit": 0.47374409530652706,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:21:38.475652+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.4539945272330471,
+            "price": 70.03886857559739,
+            "profit": 14.753034433008935,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:21:48.495582+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.6304936559955057,
+            "price": 78.76859958274471,
+            "profit": 13.015177528961036,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:21:58.516419+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.30651396245228135,
+            "price": 70.67936565089342,
+            "profit": 11.580615095999903,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:22:08.539177+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.16677268882167767,
+            "price": 79.90391201222096,
+            "profit": 8.59050228870216,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:22:18.564364+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.4063835961529605,
+            "price": 71.86128262878007,
+            "profit": -3.9033361851259096,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:22:28.587835+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.7587725406494029,
+            "price": 77.65285366606089,
+            "profit": 9.952086087319802,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:22:38.605540+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.9188561914851484,
+            "price": 72.96773748987292,
+            "profit": 11.568228916036134,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:22:48.620516+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.3207876626554971,
+            "price": 78.1244706542068,
+            "profit": 4.05136479956769,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:22:58.636586+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.5945977548481151,
+            "price": 73.35445241555642,
+            "profit": 0.8346597423555302,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:23:08.649537+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.1684721463815863,
+            "price": 78.72488019401018,
+            "profit": -3.400616999890038,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:23:18.675436+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8363792709989428,
+            "price": 76.34304834411819,
+            "profit": -4.3546459496645396,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:23:28.695002+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.4149859631974139,
+            "price": 75.48201969509024,
+            "profit": 1.7721046010481567,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:23:38.706997+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.16356518825435507,
+            "price": 78.77511905408011,
+            "profit": -4.179285223443445,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:23:48.723209+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.42193177615336075,
+            "price": 76.20438624278817,
+            "profit": 12.304687637879013,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:23:58.737540+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.6685682467528294,
+            "price": 70.72295296925797,
+            "profit": 13.434733151112713,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:24:08.762172+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.7427973367958074,
+            "price": 75.76111564766269,
+            "profit": 10.89920416281946,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:24:18.785921+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.7902427444846113,
+            "price": 78.66877601201159,
+            "profit": 13.08109879120132,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:24:28.803849+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.16735605659391678,
+            "price": 71.01513633984948,
+            "profit": -0.0606576110595185,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:24:38.828403+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.5417017537915699,
+            "price": 78.84326552087883,
+            "profit": 11.403619473602184,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:24:48.886843+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.34367156076590794,
+            "price": 70.78518472504105,
+            "profit": 12.391572007733828,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:24:58.910845+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.4761141871050071,
+            "price": 73.1273558446202,
+            "profit": -4.780406521828935,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:25:08.924661+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.3260155674235873,
+            "price": 77.83441027946192,
+            "profit": 11.144776512555293,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:25:18.942045+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.9227921999225464,
+            "price": 72.10374689859799,
+            "profit": -0.03703092076023928,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:25:28.962822+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.43526334352664997,
+            "price": 78.9859000116552,
+            "profit": 3.2983205001758265,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:25:38.990481+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.3319687349696061,
+            "price": 76.95973075771465,
+            "profit": -3.848419614923344,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:25:49.003738+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.6361782545977296,
+            "price": 76.76102846303675,
+            "profit": 2.9602052864389634,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:25:59.021715+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.10451091172492703,
+            "price": 75.36405191981765,
+            "profit": 1.2921154445743666,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:26:09.041351+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.8401051807117279,
+            "price": 78.2520976831166,
+            "profit": -3.0242961839173055,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:26:19.082277+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.24393834297619557,
+            "price": 77.20101342849593,
+            "profit": 6.717249390530476,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:26:29.110856+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.15520004654551778,
+            "price": 79.2495537215263,
+            "profit": -2.845908942350952,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:26:39.132240+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.24819332891832352,
+            "price": 76.99379433649977,
+            "profit": -3.8935196843777287,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:26:49.158151+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.8826650938392688,
+            "price": 70.70094341141515,
+            "profit": 1.1855022161314377,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:26:59.185647+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.12694545276791844,
+            "price": 70.78765984873213,
+            "profit": 11.834089644588317,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:27:09.200670+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.6246709142473287,
+            "price": 75.5320482738152,
+            "profit": 8.228916951131362,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:27:19.219544+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.8129446954991902,
+            "price": 71.67062920485382,
+            "profit": 4.216934741568256,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:27:29.238642+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.6139126821266476,
+            "price": 77.0480868501657,
+            "profit": 5.114578742492755,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:27:39.270258+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.30764667001289436,
+            "price": 71.56751739522599,
+            "profit": 1.9007207851231334,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:27:49.287082+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.24415826734222973,
+            "price": 70.14503789084115,
+            "profit": -4.815360968371514,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:27:59.302054+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.9765735391932155,
+            "price": 71.84557365917222,
+            "profit": 7.986782908736583,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:28:09.322372+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.5459309384127864,
+            "price": 74.35337112775598,
+            "profit": -440.89840736368734,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:28:19.346427+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.8950900018455723,
+            "price": 75.03880244795383,
+            "profit": 2.325382240396541,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:28:29.367408+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.888761698543727,
+            "price": 75.33238291705254,
+            "profit": 4.266898804557005,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:28:39.387584+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.7171432372949493,
+            "price": 73.29977110265355,
+            "profit": 3.6451669988271753,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:28:49.401417+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.1378655213100469,
+            "price": 77.1738392146239,
+            "profit": 0.8423180455558521,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:28:59.416525+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.9662383811212176,
+            "price": 78.58940373738022,
+            "profit": 14.678357715791396,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:29:09.431887+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.6531781293754211,
+            "price": 71.3844403534591,
+            "profit": -0.01478376610383414,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:29:19.452935+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.9520398490280838,
+            "price": 71.95541838757629,
+            "profit": 0.817953219114445,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:29:29.474590+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.9902895507873717,
+            "price": 78.41647356285058,
+            "profit": 11.770352641254107,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:29:39.489672+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6705003426320634,
+            "price": 73.13782306463905,
+            "profit": 8.567789986367885,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:29:49.517170+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.7697387873718485,
+            "price": 70.67330861958993,
+            "profit": 4.922819187841856,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:29:59.543039+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.8832511815564801,
+            "price": 72.44825231567553,
+            "profit": 2.7029067595423157,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:30:09.568614+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.5985758792475366,
+            "price": 70.45380044201573,
+            "profit": 13.172875486430012,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:30:19.587424+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.9528974292306774,
+            "price": 75.21681827217702,
+            "profit": -3.7126456280460807,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:30:29.632294+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.8021500800403568,
+            "price": 76.66962159252256,
+            "profit": 8.149878588852896,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:30:39.651035+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.2379713976351777,
+            "price": 70.82137777491373,
+            "profit": 14.99504114510928,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:30:49.675884+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.9761765765181778,
+            "price": 75.58201799911815,
+            "profit": 7.492936432603871,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:30:59.694392+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.2571920131958768,
+            "price": 72.46495876200123,
+            "profit": 6.69416559300652,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:31:09.713364+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.6965098022151535,
+            "price": 74.50006294952301,
+            "profit": 1.2441672808580728,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:31:19.727890+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.18509249063228012,
+            "price": 72.65641846440826,
+            "profit": 7.093614752973306,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:31:29.758494+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.9974426943603204,
+            "price": 72.2582017648308,
+            "profit": 8.192627477240706,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:31:39.774340+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.7411901126543473,
+            "price": 74.55448986504597,
+            "profit": 6.382614187489155,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:31:49.789972+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.39042831668311373,
+            "price": 77.39359460681554,
+            "profit": 6.039052900129818,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:31:59.811478+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5491432626608387,
+            "price": 71.87341299386816,
+            "profit": 1.030137526687609,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:32:09.842827+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.2378564303133478,
+            "price": 76.52356228457857,
+            "profit": -1.371496947070645,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:32:19.885304+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.23999146888518225,
+            "price": 77.6643816032121,
+            "profit": 5.574315146179771,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:32:29.928683+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.5001219603114051,
+            "price": 70.6498226122909,
+            "profit": 8.26743046080962,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:32:39.956669+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.19769051921969025,
+            "price": 75.10033280484393,
+            "profit": 3.033387997875492,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:32:49.985192+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.3370293193903504,
+            "price": 74.69626909670525,
+            "profit": 1.885034326902626,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:33:00.026683+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.8610942861944113,
+            "price": 77.68339116800915,
+            "profit": 12.383800686401845,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:33:10.061821+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.9764317932132693,
+            "price": 70.4282557494109,
+            "profit": -2.8518716709339276,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:33:20.086010+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.4422174549620982,
+            "price": 79.16496275378324,
+            "profit": -4.3570164652845955,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:33:30.104739+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.5468182659629244,
+            "price": 74.15620454746275,
+            "profit": 7.445899817346181,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:33:40.133709+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.5726158226266849,
+            "price": 71.1204041331713,
+            "profit": 10.693568303413032,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:33:50.167804+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.6679656612831858,
+            "price": 77.49848421263735,
+            "profit": 4.081921771761376,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:34:00.184380+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.4292547352437117,
+            "price": 71.93358992373314,
+            "profit": 6.137897156552768,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:34:10.240028+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.3530813429600884,
+            "price": 71.69513309650232,
+            "profit": 1.7019517532947193,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:34:20.256411+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.5701567404190878,
+            "price": 71.72596440222817,
+            "profit": 6.18330563661177,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:34:30.282693+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.3371640336110706,
+            "price": 73.09362916791953,
+            "profit": 3.5832784748728503,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:34:40.349815+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.29548430803645304,
+            "price": 73.089001334308,
+            "profit": -1.101876359600591,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:34:50.373973+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.91498631951803,
+            "price": 70.41778419342562,
+            "profit": -4.134120148804838,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:35:00.390147+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.5408154620549748,
+            "price": 75.25538520612774,
+            "profit": -4.3285241379759,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:35:10.406384+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.8529102975613087,
+            "price": 79.16467237335529,
+            "profit": 0.6347627254925499,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:35:20.431426+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.42820575382100023,
+            "price": 71.24994963466972,
+            "profit": 11.422279081267313,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:35:30.450444+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.7370188933349336,
+            "price": 70.70434499447954,
+            "profit": 7.246839222701611,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:35:40.465807+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.7478711520770734,
+            "price": 72.90476249950802,
+            "profit": 7.8905249386002225,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:35:50.504697+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.8010278500917672,
+            "price": 71.7398984235997,
+            "profit": 8.700416855689392,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:36:00.526201+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.7517756979185846,
+            "price": 79.17587182832186,
+            "profit": -2.186834971293783,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:36:10.548724+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.766565972597603,
+            "price": 78.17151117409068,
+            "profit": 6.314781455266061,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:36:20.579208+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.9383142102390236,
+            "price": 74.14545701204104,
+            "profit": -0.3748067112273006,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:36:30.608645+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.5431463145158595,
+            "price": 74.68191646642813,
+            "profit": 8.958028332480454,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:36:40.627912+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.9810615391454202,
+            "price": 72.08679965758081,
+            "profit": 9.68621193690921,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:36:50.664948+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.731909454419889,
+            "price": 76.88124749394623,
+            "profit": 1.0386297877798594,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:37:00.690994+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.7020414000317124,
+            "price": 74.00335469574314,
+            "profit": 4.831936499478713,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:37:10.744713+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.768686740120449,
+            "price": 75.73031540259036,
+            "profit": -4.100662223018388,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:37:20.778903+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.67306805328968,
+            "price": 77.31413553645243,
+            "profit": 5.667609684862766,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:37:30.823854+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.13622453306739443,
+            "price": 73.8916689743193,
+            "profit": -1.9723297081196733,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:37:40.861392+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.994960509604365,
+            "price": 76.00199974107655,
+            "profit": 7.726824842351567,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:37:50.883066+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.21025184552464146,
+            "price": 70.13611640333347,
+            "profit": -2.708391714143865,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:38:00.910727+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.9668300292469622,
+            "price": 79.47792910758426,
+            "profit": -0.910967465639767,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:38:10.954496+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.28334782508573597,
+            "price": 72.824652141531,
+            "profit": 4.276102485759841,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:38:20.977208+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.5622253544620811,
+            "price": 78.67756423820458,
+            "profit": 5.656942544481705,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:38:31.013531+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.29656005778102734,
+            "price": 75.61600925475692,
+            "profit": 4.63723795049331,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:38:41.031492+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.29255379454695307,
+            "price": 73.2107308703777,
+            "profit": -0.8790269542708318,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:38:51.053459+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.8980935169228873,
+            "price": 72.9144029447874,
+            "profit": 7.90077844943518,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:39:01.074898+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.45620820375861093,
+            "price": 79.48846224590602,
+            "profit": 9.353056683517124,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:39:11.097372+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.9945116219022179,
+            "price": 70.15937472874356,
+            "profit": 13.187754381974926,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:39:21.113855+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.6336173146235056,
+            "price": 74.84361125369553,
+            "profit": 0.36693713116750626,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:39:31.136143+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.6085973175902827,
+            "price": 76.37774309397317,
+            "profit": 8.652294881583904,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:39:41.154582+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.6850326558116915,
+            "price": 73.42157422221655,
+            "profit": 11.930274972067387,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:39:51.177172+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.7248124098807394,
+            "price": 73.70262360586393,
+            "profit": 14.34951212601834,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:40:01.221672+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.38338110522563196,
+            "price": 77.24176832458379,
+            "profit": 14.339562128588199,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:40:11.244080+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.11605961702930345,
+            "price": 74.82270990033047,
+            "profit": 7.407725167727088,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:40:21.262398+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.8558876156309853,
+            "price": 73.85029481440958,
+            "profit": -4.174095616919842,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:40:31.283691+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.1872176416128421,
+            "price": 72.25064536330711,
+            "profit": 7.978173964839126,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:40:41.306550+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.2831689734913317,
+            "price": 74.53217809793165,
+            "profit": -3.4379799173314374,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:40:51.344617+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5460925563181834,
+            "price": 71.1016128977314,
+            "profit": 8.427021174029516,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:41:01.363476+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.9412206699806377,
+            "price": 75.28764848745075,
+            "profit": 7.4030349341589226,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:41:11.385796+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.23352955443391415,
+            "price": 74.64629527647052,
+            "profit": 12.40569701360846,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:41:21.431572+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.2483859386516491,
+            "price": 72.03482339365078,
+            "profit": 5.091295605740434,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:41:31.458418+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.4388524937840962,
+            "price": 76.7443776105648,
+            "profit": 2.4132751354461917,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:41:41.515409+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.762511704421691,
+            "price": 79.13895829981577,
+            "profit": 11.329003709418334,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:41:51.533378+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.5264253240178752,
+            "price": 72.35289190689426,
+            "profit": 10.348532626028511,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:42:01.585483+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.5005711907725886,
+            "price": 79.8134876578302,
+            "profit": 13.294690362438438,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:42:11.602203+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.8474452490846587,
+            "price": 77.45523294621641,
+            "profit": -0.2921627791526227,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:42:21.620498+00:00",
+            "token": "TOKEN5",
+            "type": "SELL",
+            "amount": 0.859119091542892,
+            "price": 70.75105475867194,
+            "profit": 10.612519314754792,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:42:31.639030+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.23761405667748078,
+            "price": 75.65166196851311,
+            "profit": 4.549222111757114,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:42:41.662196+00:00",
+            "token": "TOKEN2",
+            "type": "SELL",
+            "amount": 0.7504121226176502,
+            "price": 79.06288282858728,
+            "profit": 2.656451876383983,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:42:51.690260+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.8560112675330246,
+            "price": 72.16925618309284,
+            "profit": 0.4421219441578632,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:43:01.725896+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.7820922555764853,
+            "price": 79.8063025910445,
+            "profit": 8.081334089790078,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:43:11.749527+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.7350447479659996,
+            "price": 78.305296616076,
+            "profit": -3.897080867402878,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:43:21.782215+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.43331796995975735,
+            "price": 71.83848467462595,
+            "profit": 8.310717553384261,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:43:31.801279+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.9224110283518583,
+            "price": 73.69039616019457,
+            "profit": -1.332387851991017,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:43:41.820078+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.12661993967545768,
+            "price": 77.11036280234775,
+            "profit": 8.450547315717396,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:43:51.853923+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.7565625673614077,
+            "price": 77.82232228015138,
+            "profit": -2.515163600896533,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:44:01.885174+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.19628214705528313,
+            "price": 76.76554916482641,
+            "profit": 10.79354749182357,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:44:11.913409+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.8812830708625368,
+            "price": 78.93869565656095,
+            "profit": 7.744055297094828,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:44:21.960353+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.41464229613082026,
+            "price": 78.77220086731776,
+            "profit": 7.101682289808428,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:44:32.046722+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.105420288344027,
+            "price": 75.32600971874359,
+            "profit": 13.064643592157918,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:44:42.067455+00:00",
+            "token": "TOKEN4",
+            "type": "SELL",
+            "amount": 0.8693826204353098,
+            "price": 75.30025491037416,
+            "profit": -0.6022164226870697,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:44:52.105758+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.7660760418082488,
+            "price": 76.69220901578922,
+            "profit": 4.279750205772416,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:45:02.136198+00:00",
+            "token": "TOKEN3",
+            "type": "SELL",
+            "amount": 0.8603412406608898,
+            "price": 76.04550297725434,
+            "profit": -4.827934715662829,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:45:12.158894+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.9465051254391608,
+            "price": 78.81088511875606,
+            "profit": 0.6789926437416334,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:45:22.194466+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.18024279772004173,
+            "price": 75.94232302315962,
+            "profit": -1.9531238274937612,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:45:32.211806+00:00",
+            "token": "TOKEN1",
+            "type": "SELL",
+            "amount": 0.36314244264430107,
+            "price": 79.16041688976283,
+            "profit": 4.688238893956971,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:45:42.244172+00:00",
+            "token": "TOKEN4",
+            "type": "BUY",
+            "amount": 0.12375316644869987,
+            "price": 78.45018671200413,
+            "profit": 0.2986654302445979,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:45:52.266114+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.7420594249528047,
+            "price": 73.31369303634096,
+            "profit": 9.837093022058646,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:46:02.285283+00:00",
+            "token": "TOKEN2",
+            "type": "BUY",
+            "amount": 0.9723405420857929,
+            "price": 76.98085937669615,
+            "profit": 12.778577417574535,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:46:12.315688+00:00",
+            "token": "TOKEN5",
+            "type": "BUY",
+            "amount": 0.3436240707915538,
+            "price": 71.93455032120214,
+            "profit": 1.865418794372946,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:46:22.343842+00:00",
+            "token": "TOKEN3",
+            "type": "BUY",
+            "amount": 0.30242439736315546,
+            "price": 75.72598817071311,
+            "profit": -2.8457533252768408,
+            "status": "COMPLETED"
+        },
+        {
+            "timestamp": "2024-12-03T12:46:32.362593+00:00",
+            "token": "TOKEN1",
+            "type": "BUY",
+            "amount": 0.43987628061106465,
+            "price": 70.34022365361639,
+            "profit": 8.951554366028546,
+            "status": "COMPLETED"
+        }
+    ],
+    "real_trades": [],
+    "portfolio": {
+        "total_value": 2123.808376653631,
+        "change_24h": 0,
+        "positions": []
+    }
+}

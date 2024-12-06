@@ -1,0 +1,104 @@
+{
+    "wallet": {
+        "balance": 500.00,
+        "min_trade_size": 10,
+        "max_trade_size": 50,
+        "phantom_public_key": "4bkAzVnLixxJA124dx53hveRVueoLabGZ6zyMwqz6JK8",
+        "practice_mode": true
+    },
+    "risk_management": {
+        "stop_loss_percentage": 5.0,
+        "take_profit_percentage": 15.0,
+        "max_open_positions": 3,
+        "position_sizing": {
+            "min_size": 10,
+            "max_size": 50,
+            "risk_per_trade": 2.0
+        },
+        "moonbag_percentage": 20
+    },
+    "entry_criteria": {
+        "min_liquidity": 50000,
+        "min_volume": 25000,
+        "min_momentum": 3.0,
+        "min_sentiment": 0.6,
+        "required_platforms": ["reddit", "telegram"],
+        "min_mentions": 5
+    },
+    "token_filters": {
+        "priority_tokens": [
+            {
+                "symbol": "icp",
+                "name": "Internet Computer",
+                "min_position_size": 10,
+                "max_position_size": 25,
+                "stop_loss": 2.0,
+                "take_profit_levels": [3.0, 5.0, 8.0],
+                "volume_threshold": 1000000,
+                "momentum_threshold": 2.0,
+                "social_volume_threshold": 5000
+            },
+            {
+                "symbol": "pepe",
+                "name": "Pepe",
+                "min_position_size": 10,
+                "max_position_size": 20,
+                "stop_loss": 2.5,
+                "take_profit_levels": [4.0, 6.0, 10.0],
+                "volume_threshold": 500000,
+                "momentum_threshold": 3.0,
+                "social_volume_threshold": 8000,
+                "aggressive_growth": true
+            }
+        ],
+        "100x_potential_filters": {
+            "min_liquidity": 50000,
+            "max_market_cap": 1000000,
+            "min_holder_growth_rate": 100,
+            "min_social_engagement": 200,
+            "required_features": [
+                "locked_liquidity",
+                "renounced_ownership",
+                "verified_contract"
+            ],
+            "influencer_tracking": {
+                "min_followers": 100000,
+                "min_mentions": 3
+            },
+            "exchange_signals": {
+                "listing_hints": true,
+                "volume_requirements": 500000
+            }
+        },
+        "blacklist": [],
+        "min_holder_count": 100,
+        "max_holder_percentage": 15.0,
+        "min_age_hours": 24
+    },
+    "whale_tracking": {
+        "enabled": true,
+        "min_transaction_size": 50000,
+        "whale_addresses": [
+            "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+            "2yqA3k1SXGPFxby69vKziXmQkd5rzvC6Y2pB6Z3YAZGq"
+        ]
+    },
+    "live_trading": {
+        "enabled": true,
+        "check_interval": 10,
+        "vpn": {
+            "provider": "ocean",
+            "check_interval": 300,
+            "auto_reconnect": true,
+            "connection_retry_limit": 3
+        }
+    },
+    "test_mode": {
+        "enabled": false
+    },
+    "api_settings": {
+        "dexscreener_delay": 1.5,
+        "geckoterminal_delay": 1.5,
+        "max_requests_per_minute": 30
+    }
+}

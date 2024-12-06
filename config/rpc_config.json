@@ -1,0 +1,19 @@
+{
+    "rpc_url": "https://api.mainnet-beta.solana.com",
+    "websocket_url": "wss://api.mainnet-beta.solana.com",
+    "test_mode": true,
+    "test_wallet_address": "TestWallet123456789",
+    "test_private_key": "TestPrivateKey123456789",
+    "risk_level": 0.1,
+    "max_slippage": 0.02,
+    "min_liquidity": 1000,
+    "min_volume": 500,
+    "risk_settings": {
+        "max_position_size": 5,
+        "max_positions": 3,
+        "stop_loss": 0.05,
+        "take_profit": 0.15,
+        "max_daily_loss": 10,
+        "trailing_stop": 0.02
+    }
+}
